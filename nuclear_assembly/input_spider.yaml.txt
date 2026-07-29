@@ -1,0 +1,44 @@
+genome: /gpfs2/scratch/eguswa/egapx/egapx/local_cache/sra_dir/Spider_brains_no_mito_build1_no_scaffold_masked_assembly_Cupi.scaffolds.fa
+taxid: 6928
+short_reads:
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S1_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S1_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S3_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S3_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S4_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S4_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S6_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S6_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S7_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S7_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S9_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S9_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S10_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S10_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S12_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S12_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S13_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S13_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S15_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S15_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S16_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S16_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S18_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S18_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S19_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S19_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S21_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S21_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S22_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S22_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S24_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S24_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S25_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S25_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S27_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S27_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S28_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S28_R2_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S30_R1_001.fastq.gz
+ - /gpfs1/home/e/g/eguswa/scratch/egapx/egapx/local_cache/sra_dir/RF-S30_R2_001.fastq.gz
+ - SRR880446
